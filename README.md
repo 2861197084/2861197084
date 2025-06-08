@@ -15,7 +15,6 @@
 <td width="60%" style="border: none;">
 
 ### 👨‍💻 Personal Info
-**Name:** MYFAV  
 **Focus:** Machine Learning & AI Development  
 **Currently Learning:** Deep Learning & Advanced AI Technologies  
 
@@ -144,6 +143,6 @@
 
 ### 🌟 *"Every expert was once a beginner. Every pro was once an amateur."* 🌟
 
-**Made with ❤️ by [MYFAV](https://github.com/MYFAV) | Visit my blog: [ricemifan.top](https://ricemifan.top)**
+**Made with ❤️ by [MYFAV](https://github.com/2861197084) | Visit my blog: [ricemifan.top](https://ricemifan.top)**
 
 </div>

@@ -15,8 +15,9 @@
 <td width="60%" style="border: none;">
 
 ### 👨‍💻 Personal Info
-**Focus:** Machine Learning & AI Development  
-**Currently Learning:** Deep Learning & Advanced AI Technologies  
+- **Who:** Data Science & Big Data @ CUMTer
+- **Focus:** Machine Learning & AI Development  
+- **Currently Learning:** Deep Learning & Advanced AI Technologies  
 
 ### 💭 Philosophy
 > *"Become your own sun, no need to rely on who's light"*
@@ -27,7 +28,6 @@
 - **Goal:** Building the future with AI
 
 ### 🚀 Current Goals
-- 🌱 Mastering **PyTorch & TensorFlow**
 - 🤝 Contributing to **open-source AI projects**
 - 📚 Building **innovative ML applications**
 - 🌍 Connecting with **fellow tech enthusiasts**
@@ -62,43 +62,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,java" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,rust,java,go" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;***GitHub Analytics***
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MYFAV&show_icons=true&count_private=true&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&custom_title=📊%20GitHub%20Stats" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MYFAV&theme=algolia&hide_border=true&border_radius=20&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYFAV&layout=compact&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MYFAV&theme=github_dark" width="49%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MYFAV&custom_title=📈%20MYFAV's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=1a1a2e&title_color=00D9FF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30px">&nbsp;***Achievement Showcase***
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MYFAV&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px">&nbsp;***Connect & Collaborate***
 
@@ -106,19 +76,16 @@
 
 ### 📫 Let's Connect!
 
-<a href="mailto:2861197084@qq.com">
-<img src="https://img.shields.io/badge/QQ邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:2861197084@qq.com" style="text-decoration:none;">
+<img src="https://img.shields.io/badge/QQ邮箱-1EBAFC?style=for-the-badge&logo=tencentqq&logoColor=white"/>
 </a>
-
-<a href="mailto:myf2861197084@gmail.com">
+<a href="mailto:myf2861197084@gmail.com" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://ricemifan.top" target="_blank">
+<a href="https://ricemifan.top" target="_blank" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/个人博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
 </a>
-
-<a href="https://github.com/2861197084">
+<a href="https://github.com/2861197084" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm MYFAV!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Fanish!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=🚀+Welcome+to+my+GitHub+Universe!;🌟+I+wish+you+to+become+your+own+sun;💫+No+need+to+rely+on+who's+light;🤖+Machine+Learning+%26+Deep+Learning+Explorer;🎯+Always+learning+new+technologies!" alt="Typing SVG" />
 
@@ -91,14 +91,14 @@
 
 ### 📊 Profile Statistics
 
-<img src="https://komarev.com/ghpvc/?username=MYFAV&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=Fanish&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 <div align="center">
 
 ### 💫 *"Become your own sun, no need to rely on who's light."* 💫
-**- MYFAV**
+**- Fanish**
 
 </div>
 
@@ -110,7 +110,7 @@
 
 ### 🌟 *"Every expert was once a beginner. Every pro was once an amateur."* 🌟
 
-**Made with ❤️ by [MYFAV](https://github.com/2861197084) | Visit my blog: [ricemifan.top](https://ricemifan.top)**
+**Made with ❤️ by [Fanish](https://github.com/2861197084) | Visit my blog: [ricemifan.top](https://ricemifan.top)**
 
 </div>
 

@@ -82,7 +82,7 @@
 <a href="mailto:myf2861197084@gmail.com" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://ricemifan.top" target="_blank" style="text-decoration:none;">
+<a href="https://fanish.me" target="_blank" style="text-decoration:none;">
 <img src="https://img.shields.io/badge/个人博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/>
 </a>
 <a href="https://github.com/2861197084" style="text-decoration:none;">
@@ -110,7 +110,7 @@
 
 ### 🌟 *"Every expert was once a beginner. Every pro was once an amateur."* 🌟
 
-**Made with ❤️ by [Fanish](https://github.com/2861197084) | Visit my blog: [ricemifan.top](https://ricemifan.top)**
+**Made with ❤️ by [Fanish](https://github.com/2861197084) | Visit my blog: [fanish.me](https://fanish.me)**
 
 </div>
 
